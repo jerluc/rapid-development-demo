@@ -1,12 +1,6 @@
-/**
- * Copyright (C) 2004 - 2013 Shopzilla, Inc. 
- * All rights reserved. Unauthorized disclosure or distribution is prohibited.
- */
-
 package com.shopzilla.hadoop.demo.mrunit.filter;
 
 import com.google.common.collect.Lists;
-import com.shopzilla.hadoop.demo.mrunit.filter.ActiveFilterMapper;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mrunit.mapreduce.MapDriver;
 import org.apache.hadoop.mrunit.types.Pair;

@@ -1,8 +1,3 @@
-/**
- * Copyright (C) 2004 - 2013 Shopzilla, Inc. 
- * All rights reserved. Unauthorized disclosure or distribution is prohibited.
- */
-
 package com.shopzilla.hadoop.demo.mrunit.join;
 
 import com.google.common.base.Function;

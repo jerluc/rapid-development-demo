@@ -1,0 +1,8 @@
+build
+logs
+target
+.idea
+*.ipr
+*.iml
+.DS_Store
+classes
